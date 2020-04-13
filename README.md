@@ -1,2 +1,2 @@
 # Convolution
-My convolution Codes
+My convolution Codes. All done using Numpy
